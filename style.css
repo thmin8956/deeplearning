@@ -1,0 +1,23 @@
+a {
+  color:black;
+  text-decoration:none;
+}
+ h1 {
+   font-size:300%;
+   text-align:center;
+   border-bottom:5px solid black;
+   margin:0;
+   padding:10px;
+ }
+ ol{
+   font-size:125%;
+   border-right:5px solid black;
+   width:80%;
+   margin:0;
+   padding:10px;
+ }
+ #grid{
+   padding:5px;
+   display:grid;
+   grid-template-columns:450px 1fr;
+ }
